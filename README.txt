@@ -1,4 +1,4 @@
-#### COLLEGE MANAGEMENT ####
+#### Parcel Online Booking  ####
 * This project is prepared for Parcel Service for one parcel service provider which going to operate from UK(united Kingdom) which Concludes Following *
 ## FrontEnd Technologies ##
 1. HTML.
