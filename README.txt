@@ -18,4 +18,7 @@
 1. Create online_booking database in PhpMyAdmin.
 2. Import online_booking.sql in your current created database.
 
+## Index ##
+url: localhost/online_booking/order/index
+
 NOTE : This Project is in Under process I may be upload whole project once it will be completed / or upload task weekly or monthly.
